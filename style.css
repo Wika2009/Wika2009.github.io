@@ -1,7 +1,11 @@
-p{color:rgb(207, 204, 0);}
-p{font-size:medium}
-p{font-weight: 400;}
-p{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;}
+p
+  {
+      color:rgb(207, 204, 0);
+      font-size:medium;   
+      font-weight: 400;
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+      text-align: left;
+   }
 
 body{background-color:rgb(146, 95, 0);}
 
