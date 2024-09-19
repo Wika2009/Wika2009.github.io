@@ -1,6 +1,17 @@
-p{color:rgb(207, 48, 0);}
+p{color:rgb(207, 204, 0);}
 p{font-size:medium}
 p{font-weight: 400;}
 p{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;}
 
-body{background-color:rgb(253, 191, 110);}
+body{background-color:rgb(146, 95, 0);}
+
+p{color: rgb(248, 232, 5);}
+
+#head
+
+{
+
+   color:rgb(224, 103, 16);
+   font-family:cursive;
+
+}
