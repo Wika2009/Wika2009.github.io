@@ -15,3 +15,10 @@ p{color: rgb(248, 232, 5);}
    font-family:cursive;
 
 }
+
+div
+{
+
+   max-width: 900px;
+   margin:auto;
+}
